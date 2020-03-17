@@ -1,0 +1,7 @@
+Note for Azure
+
+https://portal.azure.com/
+
+Reference link
+https://www.taygan.co/blog/2018/4/28/image-processing-with-cognitive-services
+https://www.youtube.com/watch?v=VEdg9lhdFBQ
